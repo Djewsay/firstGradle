@@ -9,6 +9,7 @@ public class GuessingGame {
         int getal = GiveRandom.berekenRandomGetal(1,10);
         int guess;
         System.out.println(getal);
+        System.out.println("hahaha");
 
 
         for(int teller = 1; teller <4 ; teller ++){
